@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0e7bd721046ca4842aa0ebecdecac748
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Drawing Guides
+  fontNames:
+  - Drawing Guides
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62a46b99365f0b14d8cc382162860653, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

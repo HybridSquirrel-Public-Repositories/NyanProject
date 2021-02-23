@@ -1,0 +1,25 @@
+Setup Layers:
+Add Layer Buildings
+Add Layer Ground
+
+Setup Camera:
+Main Camera Add Buildingsys.cs
+Add Materials
+Add The camera that has the Buildingsys.cs
+Add Building in the list
+
+Mask = Ground 
+The mesh that suppose to be the groud also has the layer "Ground" on it, you need to change that manualy
+
+Setup buttons:
+On Click() Should be set on Buildingsys.SetBox
+
+Add Component Event Trigger
+Add in Event Trigger: PointerEnter, PointerExit.
+
+PointerEnter Should be set on Buildingsys.HoverEnter
+PointerExit Should be set on Buildingsys.HoverExit
+
+Setup Building:
+Layer = Buildings
+Add Collider

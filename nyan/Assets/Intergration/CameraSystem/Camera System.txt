@@ -1,0 +1,12 @@
+Camera setup:
+
+Create a empty gameobject name it CameraPivot then place it Position=0,0,0
+Create a empty gameobject name it SpaceController then place it Position=0,0,0
+
+Drag the Main Camera in to the CameraPivot with the Position=0,0-10
+Add the CameraScript to Main Camera.
+
+Add DoubbleClick-,LongClick Script to SpaceController
+Add Pivotpositioner script to SpaceController
+
+Done!
